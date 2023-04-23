@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mehul-sri
-- 👀 I’m interested in mechanical engineering, coding, programming.
-- 🌱 I’m currently learning Mechanical engineering at IITH
-- 💞️ I’m looking to collaborate on : Currently working on e-Yantra Functional Roadbot. Not willing to collaborate on anything else. 
-- 📫 How to reach me : mail, github.
+- 👋 Hi, I’m Mehul Srivastava
+- 👀 I’m interested in Mechanical Engineering.
+- 🌱 I’m currently learning Mechanical engineering at IITH.
+- 💞️ I’m looking to collaborate on: Nothing as of now.
+- 📫 How to reach me : Mail: sri.mehul@gmail.com.
 
 <!---
 mehul-sri/mehul-sri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
